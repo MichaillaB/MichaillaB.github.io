@@ -7,3 +7,6 @@ p.fancy{
 color:#666;
 font-style: oblique;
 }
+p {outline-color:#254117;}
+  
+p.double {outline-style: double;}
