@@ -11,4 +11,5 @@ font-style: oblique;
 p.one {
   border-style: double;
   border-color: #254117;
+  text-indent: 50px;
 }
