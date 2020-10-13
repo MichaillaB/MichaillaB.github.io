@@ -26,8 +26,8 @@ font-style: oblique;
 }
 p.one {
   border: 2px solid black;
-  outline: #4CAF50 solid 10px;
+  outline: #4CAF50 solid 5px;
   margin: auto;  
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
