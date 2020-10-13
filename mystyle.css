@@ -20,3 +20,8 @@ font-style: oblique;
   font-family: Arial Narrow, Arial, Arial Hebrew, sans-serif;
   text-align: justify;
 }
+.img1 {
+  float: right;
+  height: 75px;
+  width: 235px;
+}
