@@ -18,7 +18,7 @@ font-size:3em;
   text-align: justify;
 }
 .img1 {
-  float: center;
+  float: center;  padding-right: 50px;
 }
 .div2 {
   float: right;
