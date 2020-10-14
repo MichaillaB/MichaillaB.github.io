@@ -7,11 +7,13 @@ font-size:3em;
 text-align: center;
 }
 h4 {
+  float: center;
   text-align: center;
   border-style: ridge;
   border-color: #556B2F;
   width: 400px;
   height; 15px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }  
 .div1 {
   float: left; 
