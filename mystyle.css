@@ -43,3 +43,15 @@ h4 {
   font-family: Arial Narrow, Arial, Arial Hebrew, sans-serif;
   text-align: left;
 }
+#navigation a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#navigation a:hover, a:active {
+  background-color: red;
+}
