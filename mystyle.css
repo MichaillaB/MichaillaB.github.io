@@ -92,6 +92,7 @@ text-decoration: underline;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 .bottomright1 {
+position: absolute;
 bottom: 30px;
   right: 50px;
 }  
