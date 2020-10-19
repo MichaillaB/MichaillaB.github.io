@@ -69,9 +69,15 @@ text-decoration: underline;
 .link2 a:hover, a:active {
   background-color: #1F6826;
 }
-.bottomleft {
+.bottomleft1 {
   position: absolute;
   bottom: 30px;
+  left: 30px;
+  font-size: 18px;
+}
+.bottomleft2 {
+  position: absolute;
+  bottom: 15px;
   left: 30px;
   font-size: 18px;
 }
