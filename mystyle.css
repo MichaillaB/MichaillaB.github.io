@@ -89,3 +89,8 @@ text-decoration: underline;
   left: 30px;
   font-size: 18px;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.bottomright1 {
+bottom: 30px;
+  right: 50px;
+}  
