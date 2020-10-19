@@ -69,3 +69,7 @@ text-decoration: underline;
 .link2 a:hover, a:active {
   background-color: #1F6826;
 }
+.link2: {
+  margin-bottom: 500px;
+  margin-left: 80px;
+}
