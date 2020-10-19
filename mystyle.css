@@ -71,7 +71,7 @@ text-decoration: underline;
 }
 .bottomleft {
   position: absolute;
-  bottom: 50px;
+  bottom: 30px;
   left: 30px;
   font-size: 18px;
 }
