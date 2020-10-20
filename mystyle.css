@@ -42,6 +42,11 @@ h4 {
 .img1 {
   float: center;  padding-left: 50px;
 }
+.img2 {
+  position: absolute;
+  top: 500px;
+  right: 350px;
+}
 .div2 {
   float: right;
   border-style: solid;
