@@ -45,7 +45,7 @@ h4 {
 .img2 {
   position: absolute;
   top: 170px;
-  right: 220px;
+  right: 180px;
 }
 .div2 {
   float: right;
@@ -138,11 +138,11 @@ bottom: -150px;
   }
 .video1 {
  position: absolute;
-  top: 400px;
+  top: 500px;
   right: 300px;
 }
 .video2 {
   position: absolute;
-  top: 750px;
-  right: 350px;
+  top: 500px;
+  right: 400px;
 }
