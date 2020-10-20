@@ -157,7 +157,13 @@ position: absolute;
 bottom: -150px;
   right: 650px;
 }
-.topleft1 {
+.bottomright4 {
+position: absolute;
+bottom: -150px;
+  right: 650px;
+}
+.topl
+eft1 {
   position: absolute;
   top: 220px;
   right: 660px;
