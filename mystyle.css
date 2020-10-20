@@ -94,7 +94,7 @@ h4 {
   font-family: "Arial Narrow", "Arial", "Arial Hebrew", sans-serif;
   text-align: left;
   position: absolute;
-  top: 200px;
+  top: 160px;
   right: 600px;
 }
 .link1 a {
@@ -165,7 +165,7 @@ bottom: -300px;
 .topleft1 {
   position: absolute;
   top: 200px;
-  right: 550px;
+  right: 560px;
   }
 .video1 {
  position: absolute;
