@@ -129,3 +129,43 @@ bottom: -150px;
   top: 200px;
   right: 200px;
   }
+.topright2 {
+  position: absolute;
+  top: 250px;
+  right: 200px;
+  font-family: "Arial Narrow", "Arial", "Arial Hebrew", sans-serif;
+ font-size: 18px;
+ color: #FFFFFF;
+ background-color: #006400;
+ width: 200px;
+}
+.topright3 {
+  position: absolute;
+  top: 300px;
+  right: 200px;
+  font-family: "Arial Narrow", "Arial", "Arial Hebrew", sans-serif;
+ font-size: 18px;
+ color: #FFFFFF;
+ background-color: #006400;
+ width: 200px;
+}
+  .topright4 {
+  position: absolute;
+  top: 350px;
+  right: 200px;
+  font-family: "Arial Narrow", "Arial", "Arial Hebrew", sans-serif;
+ font-size: 18px;
+ color: #FFFFFF;
+ background-color: #006400;
+ width: 200px;
+}
+.topright5 {
+  position: absolute;
+  top: 400px;
+  right: 200px;
+  font-family: "Arial Narrow", "Arial", "Arial Hebrew", sans-serif;
+ font-size: 18px;
+ color: #FFFFFF;
+ background-color: #006400;
+ width: 200px;
+}
