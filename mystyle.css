@@ -76,13 +76,26 @@ h4 {
   border-color: #006400;
   border-width: 5px;
   background-color: #ffffff;
-  width: 260px;
-  height: 500px;
+  width: 300px;
+  height: 400px;
   font-family: "Arial Narrow", "Arial", "Arial Hebrew", sans-serif;
   text-align: left;
   position: absolute;
   top: 160px;
-  right: 120px;
+  right: 100px;
+}
+.div5 {
+  border-style: solid;
+  border-color: #006400;
+  border-width: 5px;
+  background-color: #ffffff;
+  width: 300px;
+  height: 400px;
+  font-family: "Arial Narrow", "Arial", "Arial Hebrew", sans-serif;
+  text-align: left;
+  position: absolute;
+  top: 160px;
+  right: 200px;
 }
 .link1 a {
 color: ##165D21;
