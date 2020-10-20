@@ -71,6 +71,15 @@ h4 {
   font-family: "Arial Narrow", "Arial", "Arial Hebrew", sans-serif;
   text-align: justify;
 }
+.div4 {
+  border-style: solid;
+  border-color: #006400;
+  border-width: 5px;
+  background-color: #ffffff;
+  width: 200px;
+  height: 300px;
+  font-family: "Arial Narrow", "Arial", "Arial Hebrew", sans-serif;
+  text-align: left;
 .link1 a {
 color: ##165D21;
 font-size: 10px;
