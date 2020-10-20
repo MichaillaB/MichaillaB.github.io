@@ -128,4 +128,8 @@ bottom: -150px;
   top: 220px;
   right: 660px;
   }
-
+.video1 {
+ position: absolute;
+  top: 400px;
+  right: 700px;
+}
