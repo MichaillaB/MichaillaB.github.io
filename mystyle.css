@@ -95,7 +95,7 @@ h4 {
   text-align: left;
   position: absolute;
   top: 130px;
-  right: 550px;
+  right: 530px;
 }
 .link1 a {
 color: ##165D21;
@@ -144,7 +144,7 @@ text-decoration: underline;
 }
 .bottomright1 {
 position: absolute;
-bottom: 30px;
+bottom: 100px;
   right: 200px;
 }  
 .bottomright2 {
