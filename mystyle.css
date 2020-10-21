@@ -147,6 +147,11 @@ text-decoration: underline;
   bottom: -500px;
   left:650px;
 }
+.bottomleft5 {
+position: absolute;
+  bottom: -400px;
+  left: 200px;
+}
 .bottomright1 {
 position: absolute;
 bottom: 70px;
@@ -161,11 +166,6 @@ bottom: -250px;
 position: absolute;
 bottom: -150px;
   right: 650px;
-}
-.bottomright4 {
-position: absolute;
-bottom: -100px;
-  right: 630px;
 }
 .topleft1 {
   position: absolute;
