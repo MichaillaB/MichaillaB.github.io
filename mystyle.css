@@ -142,6 +142,11 @@ text-decoration: underline;
   bottom: -300px;
   left: 200px;
 }
+.bottomleft4 {
+  position: absolute;
+  bottom: -500px;
+  left:200px;
+}
 .bottomright1 {
 position: absolute;
 bottom: 70px;
